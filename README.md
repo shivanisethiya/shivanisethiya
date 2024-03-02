@@ -1,5 +1,5 @@
 
-<!--<img src="https://images.app.goo.gl/EfmFJ8nWyUG2JDeb7"/>-->
+<img src="https://github.com/shivanisethiya/shivanisethiya/blob/main/MERN.png"/>
 
 <h1 align="center">Hi 👋, I'm Shivani Sethiya</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
